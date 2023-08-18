@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "google.credentials.folder.path",
+    "type": "java.lang.String",
+    "description": "A description for 'google.credentials.folder.path'"
+  },
+  {
+    "name": "google.oauth.callback.uri",
+    "type": "java.lang.String",
+    "description": "A description for 'google.oauth.callback.uri'"
+  },
+  {
+    "name": "google.secret.key.path",
+    "type": "java.lang.String",
+    "description": "A description for 'google.secret.key.path'"
+  },
+  {
+    "name": "google.credentials.device_project_id",
+    "type": "java.lang.String",
+    "description": "A description for 'google.credentials.device_project_id'"
+  },
+  {
+    "name": "google.credentials.app_client_id",
+    "type": "java.lang.String",
+    "description": "A description for 'google.credentials.app_client_id'"
+  },
+  {
+    "name": "google.credentials.project_id",
+    "type": "java.lang.String",
+    "description": "A description for 'google.credentials.project_id'"
+  }
+]}
